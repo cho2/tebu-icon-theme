@@ -7482,6 +7482,131 @@
        x2="47.994873"
        y2="2.993361"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2198"
+       id="radialGradient3094"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3830053,-1.0350102e-8,0,1.3123934,-18.038924,-24.218731)"
+       cx="47.098362"
+       cy="78.286942"
+       fx="47.098362"
+       fy="78.286942"
+       r="38.957481" />
+    <linearGradient
+       id="linearGradient2198">
+      <stop
+         id="stop2200"
+         style="stop-color:#509363;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop2202"
+         style="stop-color:#162817;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       r="38.957481"
+       fy="78.286942"
+       fx="47.098362"
+       cy="78.286942"
+       cx="47.098362"
+       gradientTransform="matrix(1.3830053,-1.0350102e-8,0,1.3123934,49.251062,865.89784)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3111"
+       xlink:href="#linearGradient2198"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2198-9"
+       id="radialGradient3094-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3830053,-1.0350102e-8,0,1.3123934,-18.038924,-24.218731)"
+       cx="47.098362"
+       cy="78.286942"
+       fx="47.098362"
+       fy="78.286942"
+       r="38.957481" />
+    <linearGradient
+       id="linearGradient2198-9">
+      <stop
+         id="stop2200-5"
+         style="stop-color:#509363;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop2202-6"
+         style="stop-color:#162817;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath5755">
+      <path
+         d="M 37.84375,11 C 34.601317,11 32,13.767499 32,17.1875 l 0,45.625 C 32,66.232501 34.601317,69 37.84375,69 l 47.3125,0 C 88.39868,69 91,66.232501 91,62.8125 l 0,-45.625 C 91,13.767499 88.39868,11 85.15625,11 l -47.3125,0 z m 12.59375,13.3125 19.09375,0 0,14.09375 8.15625,0 L 60.15625,58.6875 42.3125,38.40625 l 8.125,0 0,-14.09375 z"
+         inkscape:connector-curvature="0"
+         id="path5757"
+         style="color:#000000;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60600001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5025"
+       id="linearGradient3078"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5383404,0,0,2.599583,-468.41653,-277.83499)"
+       x1="240.23456"
+       y1="425.79779"
+       x2="231.7753"
+       y2="438.08429" />
+    <linearGradient
+       id="linearGradient5025">
+      <stop
+         id="stop5027"
+         style="stop-color:#ffffff;stop-opacity:0.75539571"
+         offset="0" />
+      <stop
+         id="stop5029"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       r="38.957481"
+       fy="78.286942"
+       fx="47.098362"
+       cy="78.286942"
+       cx="47.098362"
+       gradientTransform="matrix(1.3031294,0,0,1.019883,-14.917112,-12.74094)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3140"
+       xlink:href="#linearGradient3991"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5025"
+       id="linearGradient4547"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5383404,0,0,2.599583,-468.41653,-277.83499)"
+       x1="240.23456"
+       y1="425.79779"
+       x2="231.7753"
+       y2="438.08429" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4909"
+       id="linearGradient4553"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.31366956,0,0,0.31366956,-1013.0193,514.24989)"
+       x1="3382.5857"
+       y1="1636.6505"
+       x2="3468.4001"
+       y2="975.65277" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4909"
+       id="linearGradient4556"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.31366956,0,0,0.31366956,-1013.0193,514.24989)"
+       x1="3382.5857"
+       y1="1636.6505"
+       x2="3468.4001"
+       y2="975.65277" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -7490,14 +7615,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-256.19588"
-     inkscape:cy="188.4123"
+     inkscape:zoom="2"
+     inkscape:cx="42.2423"
+     inkscape:cy="-9.5114388"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-height="715"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -7599,17 +7724,12 @@
        inkscape:export-filename="/home/piko/Desktop/contoh295px.png"
        inkscape:export-xdpi="28.780001"
        inkscape:export-ydpi="28.780001" />
-    <rect
-       ry="7.1630692"
-       y="971.67297"
-       x="13.128288"
-       height="55.999676"
-       width="69.679459"
-       id="rect4893"
-       style="fill:url(#linearGradient4915);fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/piko/Desktop/contoh295px.png"
-       inkscape:export-xdpi="28.780001"
-       inkscape:export-ydpi="28.780001" />
+    <path
+       style="fill:url(#radialGradient3140);fill-opacity:1;stroke:none"
+       clip-path="none"
+       d="M 20.28125 15.3125 C 16.31291 15.3125 13.125 18.50041 13.125 22.46875 L 13.125 64.15625 C 13.125 68.12459 16.31291 71.3125 20.28125 71.3125 L 75.65625 71.3125 C 79.62459 71.3125 82.8125 68.12459 82.8125 64.15625 L 82.8125 22.46875 C 82.8125 18.50041 79.62459 15.3125 75.65625 15.3125 L 20.28125 15.3125 z "
+       transform="translate(0,956.3622)"
+       id="rect3461-2" />
     <rect
        ry="2.640084"
        y="993.60004"
