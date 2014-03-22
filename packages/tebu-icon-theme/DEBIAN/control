@@ -1,0 +1,11 @@
+Package: tebu-icon-theme
+Version: 0.2
+Architecture: all
+Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
+Installed-Size: 31186
+Depends: libgtk-3-0
+Section: gnome
+Priority: optional
+Description: Tebu Icon Theme for BlankOn Linux
+ This icon theme provides a scalable group of icons to be used by GTK+ 3.x
+ applications like GNOME 3, this distributed for BlankOn X Tambora.
