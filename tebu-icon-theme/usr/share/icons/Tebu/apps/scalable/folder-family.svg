@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="folder.svg">
+   sodipodi:docname="folder-family.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -5809,7 +5809,7 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-height="715"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -5827,10 +5827,6 @@
        orientation="1,0"
        position="2.9941553,92.708328"
        id="guide3322" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="47.994873,101.11627"
-       id="guide8047" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -5950,17 +5946,6 @@
        d="m 35.751333,969.50378 c 0.0231,0.043 0.0394,0.081 0.0625,0.125 3.06566,4.2041 4.006,4.8869 9.5625,4.2813 l 39.874997,0 0,-0.6875 c 0,-2.0567 -1.66213,-3.7188 -3.71875,-3.7188 l -45.781247,0 z"
        id="rect7493"
        inkscape:connector-curvature="0" />
-    <g
-       style="display:inline"
-       id="g5676"
-       transform="matrix(0.94640661,0,0,0.84993851,2.933122,964.9434)">
-      <path
-         style="opacity:0.15;fill:url(#linearGradient5696);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3870)"
-         id="path5678"
-         clip-path="url(#clipPath3860)"
-         inkscape:connector-curvature="0"
-         d="m 15.96875,22.53125 c -2.845903,0.0043 -5.433244,2.591597 -5.4375,5.4375 l 0,48.0625 c 0.0043,2.845903 2.591597,5.433244 5.4375,5.4375 l 64.0625,0 c 2.845903,-0.0043 5.433244,-2.591597 5.4375,-5.4375 l 0,-48.0625 c -0.0043,-2.845903 -2.591597,-5.433244 -5.4375,-5.4375 z" />
-    </g>
     <path
        inkscape:connector-curvature="0"
        style="fill:#000000;fill-opacity:0.11764706;stroke:none"
