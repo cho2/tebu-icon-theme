@@ -1,5 +1,5 @@
 #!/bin/bash
-icon='mimetypes'
+icon='places'
 
 size[0]='16'
 size[1]='22'
