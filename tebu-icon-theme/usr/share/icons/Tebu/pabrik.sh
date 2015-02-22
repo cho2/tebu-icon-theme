@@ -1,5 +1,5 @@
 #!/bin/bash
-icon='categories'
+icon='mimetypes'
 
 size[0]='16'
 size[1]='22'
