@@ -1,5 +1,5 @@
 #!/bin/bash
-icon='places'
+icon='apps'
 
 size[0]='16'
 size[1]='22'
@@ -18,8 +18,6 @@ loc=$(pwd)
 echo $loc
 for x in 0 1 2 3 4 5 6
 do
-  loc=$(pwd)
-  echo $loc
   SAVEIF=$IFS
   IFS=$(echo -en "\n\b")
   for file in $(ls *svg)
