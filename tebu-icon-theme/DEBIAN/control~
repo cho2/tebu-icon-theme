@@ -1,7 +1,0 @@
-Package: tebu-icon-theme
-Architecture: all
-Maintainer: Herpiko Dwi Aguno <herpiko@ntb.linux.or.id>
-Depends: 
-Priority: optional
-Version: 0.1
-Description: deskripsi set ikon tebu...
